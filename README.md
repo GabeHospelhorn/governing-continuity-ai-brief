@@ -12,7 +12,9 @@ Is continuity behaving as governed, or is it silently amortizing?
 
 This document makes no claims of safety, validation, or adoption. It is published for inspection and reference.
 
-____
+---
 
-Author:
+## Author
+
 Gabe
+
