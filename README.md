@@ -1,7 +1,3 @@
-# governing-continuity-ai-brief
-Governance brief on continuity as a boundary condition in AI systems
-
-
 # Governing Continuity in AI Systems — Governance Brief (v1.0)
 
 This repository hosts a short governance brief that isolates a structural failure mode observed across AI systems: continuity becoming implicitly trusted across time, context, and authority.
